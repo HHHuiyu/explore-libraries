@@ -4,6 +4,8 @@
 #' Which libraries does R search for packages?
 .libPaths()
 
+# change from Github
+
 ## let's confirm the second element is, in fact, the default library
 .Library
 library(fs)
