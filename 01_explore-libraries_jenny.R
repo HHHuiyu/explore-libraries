@@ -69,9 +69,4 @@ ipt2 %>%
   mutate(prop = n / sum(n))
 
 
-<<<<<<< HEAD
-=======
-#' ---
-#' output: github_document
-#' ---
->>>>>>> 20adc44d8f28a1fab97e33962325b914e5de66d9
+
