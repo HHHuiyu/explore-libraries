@@ -7,6 +7,7 @@ this is a line added from Github
 
 Let's look at a file!
 
+<<<<<<< HEAD
 [01_explore-libraries_jenny](01_explore-libraries_jenny.md)
 
 I had coffee.
@@ -14,4 +15,3 @@ I had coffee.
 Wingardium Leviosa
 
 
-A????

@@ -8,7 +8,7 @@
 #' Which libraries does R search for packages?
 .libPaths()
 
-## trying to merge
+# MERGE
 
 ## let's confirm the second element is, in fact, the default library
 .Library
@@ -69,3 +69,9 @@ ipt2 %>%
   mutate(prop = n / sum(n))
 
 
+<<<<<<< HEAD
+=======
+#' ---
+#' output: github_document
+#' ---
+>>>>>>> 20adc44d8f28a1fab97e33962325b914e5de66d9
