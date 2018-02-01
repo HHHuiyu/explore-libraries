@@ -1,8 +1,14 @@
+#' ---
+#' output: github_document
+#' ---
+
 ## how jenny might do this in a first exploration
 ## purposely leaving a few things to change later!
 
 #' Which libraries does R search for packages?
 .libPaths()
+
+## trying to merge
 
 ## let's confirm the second element is, in fact, the default library
 .Library
@@ -63,6 +69,3 @@ ipt2 %>%
   mutate(prop = n / sum(n))
 
 
-#' ---
-#' output: github_document
-#' ---
