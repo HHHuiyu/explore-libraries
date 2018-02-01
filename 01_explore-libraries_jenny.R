@@ -8,8 +8,6 @@
 #' Which libraries does R search for packages?
 .libPaths()
 
-# MERGE
-
 ## let's confirm the second element is, in fact, the default library
 .Library
 library(fs)
@@ -67,6 +65,3 @@ ipt2 %>%
   mutate(github = grepl("github", URL)) %>%
   count(github) %>%
   mutate(prop = n / sum(n))
-
-
-
